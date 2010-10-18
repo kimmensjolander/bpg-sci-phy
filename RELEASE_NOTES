@@ -1,0 +1,3 @@
+This release is a new implementation of the original SCIPHY code by Brown et al. The results 
+are not necessarily identical to previous implemention due to some small difference in the
+implementations. But the results are largely agreeable.
